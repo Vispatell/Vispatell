@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishv Mangukiya!  
+# 👋 Hi, I'm Vishv!  
 ### 🚀 Frontend Developer | React.js | JavaScript  
 
 💻 **Frontend Developer** with a strong foundation in **modern web technologies**.  
