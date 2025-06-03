@@ -36,6 +36,5 @@
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vishv-mangukiya/)
+
 
