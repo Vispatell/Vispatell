@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vishv!  
-### 💻 Web Developer | React.js | JavaScript | MERN Stack  
+### 💻 Web Developer | React.js | Next.js | JavaScript | MERN Stack  
 
 🎓 Graduated with a degree in **Information Technology**.  
 🌟 Passionate about creating **responsive**, **dynamic**, and **interactive** web applications.  
